@@ -9,3 +9,5 @@ class DBconnect {
         return DBconnect.instance;
     }
 }
+
+export default DBconnect
