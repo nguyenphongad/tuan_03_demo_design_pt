@@ -21,3 +21,5 @@ class CreateUserFactory {
         }
     }
 }
+
+export default CreateUserFactory
